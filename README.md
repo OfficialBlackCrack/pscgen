@@ -1,4 +1,4 @@
-# pscgen
+# Paysafecard Generator 
 PaysafeCardGenerator
 
 
